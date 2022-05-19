@@ -3,5 +3,37 @@ body {
 }
 
 div #header1 {
+    background-color:bisque;
+    border-style:inset;
+}
+
+p.para1 {
+    background-color:blanchedalmond;
+    border-style:inset;
+} 
+
+div.projects {
+    background-color:bisque;
+    border-style:inset;
+}
+
+div.about_me {
+    border-style: inset;
     background-color: bisque;
+}
+
+
+
+img.picture {
+    border-style: groove;
+    position: relative;
+    top: 0px;
+    left: 40px;
+}
+
+img.picture2 {
+    position: relative;
+    left: 40px;
+    top: 0px;
+    border-style: groove;
 }
